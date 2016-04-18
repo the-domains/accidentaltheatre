@@ -1,0 +1,28 @@
+name: Accidental Theatre
+favicon: null
+layout_spectrum: 0.5880202692933381
+typography_spectrum: 0.9937333029229194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.08909904840402305
+  lightness: 0.6755349696613848
+  saturation: 0.6834718498867005
+  rhythmicContrast: 0.1802344312891364
+purpose: []
